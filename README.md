@@ -66,4 +66,4 @@ To check Docker Compose's instalaltion try running the command below:
 
 <a name="references"></a>
 ## 4.- References
-- [Docker's installation in CentOS Official Webpage](https://docs.docker.com/engine/install/centos/
+- [Docker's installation in CentOS Official Webpage](https://docs.docker.com/engine/install/centos/)
